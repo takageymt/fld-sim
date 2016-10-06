@@ -3,6 +3,8 @@ C Fluid Simulator
 
 Fluid Dynamics Simulator by C-lang with EGGX.
 
+![screenshot](https://raw.githubusercontent.com/ukuku09/fld-sim/master/images/screenshot.png)
+
 Requirements
 ===
 
