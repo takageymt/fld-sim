@@ -1,0 +1,16 @@
+C Fluid Simulator
+===
+
+Fluid Dynamics Simulator by C-lang with EGGX.
+
+![]()
+
+Requirements
+===
+
+- gcc
+- EGGX
+
+Usage
+===
+
